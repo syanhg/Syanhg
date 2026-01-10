@@ -1,5 +1,4 @@
 Hi, I'm Alex.
-
 I'm an 18-year-old researcher
 
 Research interests: knowledge graphs, alzheimer's, prediction market
