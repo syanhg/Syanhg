@@ -1,8 +1,6 @@
-Hi, I'm Alex.
-I'm an 18-year-old
+Alex Yang / 18 / Building https://getsoffo.com/
 
-Research interests: knowledge graphs & prediction market & healthcare
+Research interests: Knowledge Graphs, InsurTech, Prediction Market
 
 How to reach me
-- Email: alex@reteena.org
 - LinkedIn: [profile link](https://www.linkedin.com/in/alexyango/)
