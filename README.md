@@ -1,4 +1,4 @@
-Alex Yang / 18 / Building https://getsoffo.com/
+Seungyong (Alex) Yang / 18 / Building https://getsoffo.com/
 
 Research interests: Knowledge Graphs, InsurTech, Prediction Market
 
