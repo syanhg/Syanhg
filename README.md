@@ -1,6 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syanhg&label=Profile%20views&color=0e75b6&style=flat" alt="syanhg" /> </p>
 
-Seungyong (Alex) Yang / Building https://getsoffo.com/ / Personal https://alxyang.com/
+Seungyong (Alex) Yang
+Building https://getsoffo.com/ & https://usemony.com/
+Personal https://alxyang.com/
 
 How to reach me
 - Email: seungyong@getsoffo.com
