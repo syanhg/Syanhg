@@ -6,7 +6,4 @@ Seungyong Yang
 
 Personal https://alxyang.com/  
 
-How to reach me  
-
-- Email: seungyong@getsoffo.com  
-- LinkedIn: [profile link](https://www.linkedin.com/in/seungyong12/)
+LinkedIn: [profile link](https://www.linkedin.com/in/seungyong12/)
