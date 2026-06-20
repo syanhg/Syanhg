@@ -4,6 +4,6 @@
 
 Seungyong Yang  
 
-Personal https://alxyang.com/  
+thougths here: https://alxyang.com/  
 
-LinkedIn: [profile link](https://www.linkedin.com/in/seungyong12/)
+my linkedin: [profile link](https://www.linkedin.com/in/seungyong12/)
