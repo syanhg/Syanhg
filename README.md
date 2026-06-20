@@ -4,5 +4,7 @@
 
 Seungyong Yang  
 
+CS @ UofT / Building things
+
 Thoughts: https://alxyang.com/  
 LinkedIn: [profile link](https://www.linkedin.com/in/seungyong12/)
